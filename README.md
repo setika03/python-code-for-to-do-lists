@@ -1,6 +1,7 @@
 # python-code-for-to-do-lists
 tasks = []
 
+
 def addTask():
     task =  input("Please enter a task: ")
     tasks.append(task)
